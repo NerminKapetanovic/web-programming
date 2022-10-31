@@ -1,0 +1,17 @@
+{
+    "name": "user/web-programming",
+    "autoload": {
+        "psr-4": {
+            "User\\WebProgramming\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NerminKapetanovic",
+            "email": "61951092+NerminKapetanovic@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^2.0"
+    }
+}
