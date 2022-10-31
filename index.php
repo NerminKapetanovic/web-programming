@@ -3,7 +3,7 @@
 require "vendor/autoload.php";
 
 Flight::route('/', function() {
-    echo "Hello Nermin";
+    echo "Hello Nermill";
 });
 
 Flight::route('/hello', function() {
